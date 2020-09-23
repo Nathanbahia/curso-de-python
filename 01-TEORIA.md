@@ -106,7 +106,7 @@ Agora com o uso de variáveis:
 a = 3
 b = 5
 c = 2
-delta = (5**2) - (4 * a * c)
+delta = (b**2) - (4 * a * c)
 x1 = ( -b + delta ** (1/2) ) / (2 * a)
 x2 = ( -b - delta ** (1/2) ) / (2 * a)
 print(f"As raízes da equação são: {x1} e {x2}")

@@ -1,6 +1,6 @@
 # AULA 1 - VARIÁVEIS
 
-### O que é uam variável?
+### O que é uma variável?
 Variável é um nome que armazena um valor, que pode ser um número, texto, uma expressão matemática, etc. Uma variável pode ser declarada (criada) em qualquer lugar do código e deve seguir algumas regras e recomendações de boas práticas para serem criadas.
 
 #### Regras para nomes de variáveis:

@@ -11,5 +11,5 @@ Este repositório foi criado com o intuito de armazenar os conteúdos elaborados
 - [Exercícios](https://github.com/Nathanbahia/curso-de-python/blob/master/01-EXERCICIOS.md)
 
 ## Aula 2 - Condicionais
-- [Teoria](https://github.com/Nathanbahia/curso-de-python/blob/master/01-TEORIA.md)
-- [Exercícios](https://github.com/Nathanbahia/curso-de-python/blob/master/01-EXERCICIOS.md)
+- [Teoria](https://github.com/Nathanbahia/curso-de-python/blob/master/02-TEORIA.md)
+- [Exercícios](https://github.com/Nathanbahia/curso-de-python/blob/master/02-EXERCICIOS.md)

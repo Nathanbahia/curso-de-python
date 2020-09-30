@@ -1,10 +1,10 @@
-# Ambiente de desenvolvimento Python
+# Ambiente de Desenvolvimento Python
 
-Para começar a programar em Python, você precisa apenas ter o interpretador Python instalado em sua máquina. A página para download pode ser acessada [aqui](https://www.python.org/downloads/).
+Para começar a programar em Python, você precisa apenas ter o interpretador Python instalado em sua máquina. A página para download do interpretador pode ser acessada [aqui](https://www.python.org/downloads/).
 
 <img src="https://datatofish.com/wp-content/uploads/2019/11/001_install_python.png" width="360">
 
-Juntamente com o interpretador Python, vem instalado o Shell, que é uma ferramenta usada, entre outras coisas, para testar e documentar códigos. No Shell, você não desenvolve um programa especificamente, mas pode testar funcionalidades, criar variáveis, funções, etc...
+Juntamente com o interpretador Python, vem instalado o Shell, que é uma ferramenta usada, entre outras coisas, para testar e documentar códigos. No Shell, você não desenvolve um programa especificamente, mas pode testar funcionalidades, criar variáveis, funções, etc... Existem diversos editores de código Python, porém, para quem está aprendendo, recomendo usar as próprias ferramentas embutidas do Python, para que não se perca em meio a tantas funcionalidades que no primeiro contato com a linguagem não fazem sentido.
 
 ### Shell Python
 <img src="https://www.w3resource.com/w3r_images/python-shell.png" width="360">

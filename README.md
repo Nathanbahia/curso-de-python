@@ -12,3 +12,7 @@ Este repositório foi criado com o intuito de armazenar os conteúdos elaborados
 ## Aula 2 - Condicionais
 - [Teoria](https://github.com/Nathanbahia/curso-de-python/blob/master/02-TEORIA.md)
 - [Exercícios](https://github.com/Nathanbahia/curso-de-python/blob/master/02-EXERCICIOS.md)
+
+## Aula 3 - Laços de Repetição
+- [Teoria](https://github.com/Nathanbahia/curso-de-python/blob/master/03-TEORIA.md)
+- [Exercícios](https://github.com/Nathanbahia/curso-de-python/blob/master/03-EXERCICIOS.md)

@@ -6,7 +6,8 @@ Neste repositório, quis criar conteúdo para lecionar aulas particulares. Contu
 ### Aula 0 - Ambiente de Desenvolvimento Python
 Nesta aula demonstro como começar a programar em Python. O passo a passo para instalação e apresentação das ferramentas de desenvolvimento integradas.
 
-[Teoria]() - [Exercicios]()
+> - [Teoria](/curso-de-python/aula00) 
+> - [Exercicios]()
 
 ### Aula 1 - Variáveis
 > - [Teoria](/curso-de-python/aula01) 

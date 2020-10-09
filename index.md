@@ -6,7 +6,7 @@ Neste repositório, quis criar conteúdo para lecionar aulas particulares. Contu
 ### Aula 0 - Ambiente de Desenvolvimento Python
 Nesta aula demonstro como começar a programar em Python. O passo a passo para instalação e apresentação das ferramentas de desenvolvimento integradas.
 
-[Teoria]() - [Exercicios]()
+[Teoria](https://github.com/Nathanbahia/curso-de-python/blob/gh-pages/aula01.md) - [Exercicios]()
 
 ### Aula 1 - Variáveis
 [Teoria]() - [Exercicios]()

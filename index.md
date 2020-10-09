@@ -9,13 +9,13 @@ Nesta aula demonstro como começar a programar em Python. O passo a passo para i
 [Teoria]() - [Exercicios]()
 
 ### Aula 1 - Variáveis
-> - [Teoria](/aula01) 
+> - [Teoria](/curso-de-python/aula01) 
 > - [Exercicios]()
 
 ### Aula 2 - Condicionais
-> - [Teoria](/aula02)
+> - [Teoria](/curso-de-python/aula02)
 > - [Exercicios]()
 
 ### Aula 3 - Estruturas de Dados - Parte I
-> - [Teoria](/aula03)
+> - [Teoria](/curso-de-python/aula03)
 > - [Exercicios]()

@@ -13,14 +13,16 @@ Essas estruturas de dados já vimos e usamos bastante nas últimas aulas. Agora,
 
 ### Booleanos
 Os boleanos podem conter apenas dois valores: True (verdadeiro) ou False (falso), ambos com iniciais maiúsculas. Quando realizamos uma comparação, em um bloco ```if```, por exemplo, obtemos um resultado boleano mesmo sem porceber. Por exemplo:
-```console
+
+{% highlight python %}
 if idade == 18:
   # se esta comparação for verdadeira...
   print("Maior de idade")
 else:
   # se esta comparação for falsa...
   print("Menor de idade")
-```
+{% endhighlight %}
+
 
 Outro exemplo:
 ```console
